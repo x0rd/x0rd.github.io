@@ -16,8 +16,7 @@
 title: [Julie Caroline Zerol]
 email: pr1v8bot@tuta.io
 description: >- # this means to ignore newlines until "baseurl:"
-    This is my personal blog where you can find notes about my lifestyle and workflow from day-to-day. Here you will
-    also find my awesome lists on computing and information security.
+    This is my personal blog where you can find notes about my lifestyle and workflow from day-to-day. Here you will also find my awesome lists on computing and information security.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
